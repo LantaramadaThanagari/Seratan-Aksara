@@ -1,5 +1,5 @@
 # Seratan-Aksara
-
+Solusi Alternatif Aplikasi Luring Untuk Dukungan Sistem Penulisan Aksara Yang Mampu Membangkitkan Pelestarian Aksara Secara Masif Dengan Menggunakan Teknologi PapanKetik Yang Dirancang Khusus Untuk Mempermudah Akses Informasi Aksara, Jalinan Pendekatan Antar Bangsa, Penelitian Aksara, Pemulihan Aksara, Pelestarian Aksara, Memperbanyak Karya Aksara, Edukasi Aksara Berbasis Tatanan Ide Aspirasi Yang Dapat Dibuat Oleh Pengguna Aplikasi Serta Dapat Menjadi Gratis Dan Sumber Terbuka
 - Dalam rangka ini saya mempersembahkan untuk alam semesta ini, saya membuat aplikasi yang bernama "SERATAN AKSARA", tidak luput aplikasi ini akan selalu saya kembangkan dan uji coba agar aplikasi ini dapat bermanfaat untuk masyarakat, dalam catatan dan naungan dukungan dari Brakhati Lisensi. Dengan ini merupakan tanggung jawab bersama.
 ## Kajian Penamaaan Aplikasi SERATAN AKSARA
 Seratan merupakan simbol yang terdiri dari 3 Unsur Utama yaitu: SERAT, SURAT, dan SIRAT
