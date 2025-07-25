@@ -27,3 +27,12 @@ Dengan ini, saya yang bernama Lantaramada Thanagari merumuskan misi-misi dalam p
 - Aplikasi Seratan Aksara diharapkan bisa menjadi titik terang, kunci, sekaligus saksi atas perwujudan frekuensi yang terbentuk dari berbagai zaman;
 - Aplikasi Seratan Aksara penggunanya tidak diperkenankan memperjualbelikan data karakter terhadap publik, dikarenakan landasan dibangunnya Aplikasi Seratan Aksara ini memakai filosofi Brakhati Lisensi dan untuk kepentingan faedah umat, sehingga mendatangkan lebih kemakmuran dan kebajikan;
 - Aplikasi Seratan Aksara dibuat sebagai inputan desain karakter kedalam media tersebut;
+- Aplikasi Seratan Aksara dapat memuat informasi tentang karakter tersebut makro dan mikro aksara, mendukung pengguna aplikasi dapat menginputkan informasi;
+- Aplikasi Seratan Aksara direncanakan bisa menjadi media plugin hasil dari kumpulan data desain karakter tersebut bisa dikirim dan diinstal maupun diuninstal ke gawai lainnya agar bisa menjadi fleksibel dan efisien sehingga bisa siap pakai;
+- Aplikasi Seratan Aksara direncanakan membuat kode tersendiri yang sudah teridentifikasi untuk karakter yang didesain, sehingga karakter ini mendapatkan kode yang ia miliki sendiri, tanpa tumpang tindih kategori karakter lain;
+- Aplikasi Seratan Aksara dapat digunakan sebagai media mentahan lembaran transparan, sehingga bisa di impor kedalam aplikasi edit video lainnya;
+- Aplikasi Seratan Aksara mendukung penuh digunakan secara tanpa koneksi internet;
+- Aplikasi Seratan Aksara mendukung penuh pelestarian aksara;
+- Aplikasi Seratan Aksara mendukung penuh pembuatan aksara buatan;
+- Aplikasi Seratan Aksara dirancang khusus untuk mendukung seluruh sistem arah penulisan aksara yang digunakan di papan ketik khusus yang dibuat.
+## Rumusan Masalah Menjadi Tantangan Yang Harus Segera Diselesaikan Melalui SERATAN AKSARA
