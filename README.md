@@ -36,3 +36,8 @@ Dengan ini, saya yang bernama Lantaramada Thanagari merumuskan misi-misi dalam p
 - Aplikasi Seratan Aksara mendukung penuh pembuatan aksara buatan;
 - Aplikasi Seratan Aksara dirancang khusus untuk mendukung seluruh sistem arah penulisan aksara yang digunakan di papan ketik khusus yang dibuat.
 ## Rumusan Masalah Menjadi Tantangan Yang Harus Segera Diselesaikan Melalui SERATAN AKSARA
+Dibuat Aplikasi SERATAN AKSARA ini untuk mengatasi banyak permasalahan, beberapa poin pentingnya sebagai berikut
+##### Masalah Pendataan Aksara Melalui Digitalisasi
+- Dalam proses pelestarian aksara maupun penelitian aksara, banyak data-data aksara yang sangat tersebar dimana-mana dan kurangnya pengelolaaan secara resmi sehingga pengumpulan informasi data-data aksara sangat minim untuk dilakukan. ini memang masalah secara umum yang harus segera selesai dilaksanakan.
+##### Sistem Pengelolaan Data Aksara Yang Tidak Fleksibel
+- Saya mengakui dan menghargai setiap organisasi perusahaan luar negeri untuk memegang kendali penuh terhadap data aksara. ini merupakan langkah yang sangat baik untuk dilakukan, namun seiring dengan berjalannya waktu, ini tidak menjadi efisien untuk registrasi penambahan aksara, dikarenakan tata cara pengajuan data aksara harus dilakukan memlalui proposal dan akan ditinjau terlebih dahulu, ini memang hak yang dimiliki keputusan organisasi perusahaan tersebut. Data Aksara ini dipegang penuh oleh organisasi, bukan dari bersumber hak masyarakat.
