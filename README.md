@@ -13,11 +13,11 @@ Dengan adanya 4 unsur tersebut dapat berkembang dan mewujudkan dari eksitensi re
 ## Kajian Pewarnaan Warna Yang Melatarbelakangi Bentuk Simbol SERATAN AKSARA
 Setelah Mengenal Simbol SERATAN AKSARA, latar belakang warna ini ada 5 warna berbeda yang menjadi simbol perbedaan satu sama lain, dalam runutan fisolofi konsep tidak ada menjadi ada dikarenakan suatu perubahan dimulai dari angka 1 hingga penambahannya yaitu 2, 3, 4 dan 5. hingga setelahnya merupakan konsep perkembangan meliputi penjumlahan, pengurangan bahkan konsep perhitungan yang rumit menghasilkan bentuk tatanan peradaban kehidupan. Berikut unsur elemennya:
 
-- Api
 - Air
-- Cahaya
+- Angin
+- Tanah
+- Api
 - Logam
-- Udara
 
 ini bukanlah sekedar filosofi, tapi ini adalah makna yang terwakilkan oleh alam semesta itu sendiri, dengan banyaknya proses perkembangan alam semesta dari masa lalu, masa kini, dan masa datang yang meliputi ruang dan dimensi, maka saya sangat berharap, setelah terbentuknya aplikasi "SERATAN AKSARA" ini dapat menumbuhkan jiwa kesadaran dalam setiap Makhluk Ciptaan Tuhan.
 ## Tujuan Pembuatan Aplikasi SERATAN AKSARA
